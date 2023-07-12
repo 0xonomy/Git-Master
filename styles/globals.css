@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  width: 100wh;
+  height: 100vh;
+}
+
+.result-container {
+  padding-top: 0px;
+}
+
+:root {
+  --main-color: #292929;
+  --main-color-light: #343434;
+}

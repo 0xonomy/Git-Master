@@ -1,0 +1,14 @@
+.container{
+	margin: 10vh 13vw;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+}
+
+.social-links{
+	margin-top: 3vh;
+}
+
+.social-link{
+	margin: 0 1vw;
+}

@@ -1,0 +1,9 @@
+.container{
+	font-size: 2rem;
+	display: flex;
+	margin: 10vh 15vw;
+}
+
+.home-link{
+	color: blue;
+}
